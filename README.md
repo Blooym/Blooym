@@ -1,4 +1,4 @@
-## Blooym <sub><sup>(she/they)</sup></sub>
+## Blooym <sub><sup>(she/her)</sup></sub>
 
 I create software, cast incantations on infrastructure and like to build random things. You can find out more about me [here](https://blooym.dev).
 
