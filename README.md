@@ -1,8 +1,3 @@
-## Blooym <sub><sup>(she/her)</sup></sub>
+## Blooym
 
-I create software, cast incantations on infrastructure and like to build random things.
-
-<p align="center">
-  <!-- Gen from https://skillicons.dev/icons?i=rust,cs,typescript,javascript,nodejs,astro,html,css,bash,linux,docker,githubactions,git,postgres,sqlite" -->
-  <img src="/images/icons-tools.svg" />
-</div>
+Code seamstress & infrastructure witch. Most of my work is being moved to [Codeberg](https://codeberg.org/Blooym) due to my personal dislike of the direction of GitHub. Most repositories will be mirrored here for the foreseeable future.
